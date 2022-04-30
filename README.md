@@ -8,13 +8,13 @@
   About Me
 </h1>
 
-My name is Pedrè & I enjoy building things.
+My name is Pedrè & I enjoy building things. Especially in tech, I enjoy working with distributed systems and containers. Apart from wandering the tech world I enjoy the outdoors, wine, food & adventures with my wife!
 
 ## :book: Highlights
 
 - 🔭 I’m currently working as a Software Engineer at [Nile AG](https://nile.ag)
-- 🌱 I’m currently using **Golang** **Docker** **MySQL** **gRPC** **GraphQL** **GCP** **AWS**
-- 💬 Ask me about  **Golang, Python** & **Architecture in the Cloud**
+- 🌱 Currently using the following technologies **Golang** **Docker** **MySQL** **gRPC** **GraphQL** **GCP** **AWS**
+- 💬 Ask me about  **Golang, Python, NodeJS** & **Architecture in the Cloud**
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
