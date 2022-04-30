@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/17250443/154528290-f80436ad-435e-47f1-9611-e020579c25e9.gif" alt="👋 Hi there! I'm Pedre" title="👋 Hi there! I'm Pedre )"/>](https://github.com/pedreviljoen/)
+👋 Hi there! I'm Pedrè
 
 ## :book: Highlights
 
