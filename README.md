@@ -19,3 +19,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pedreviljoen&show_icons=true&theme=buefy&count_private=true" alt="pedreviljoen" height=180 width=50% />
   </a>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/[pedreviljoen])
