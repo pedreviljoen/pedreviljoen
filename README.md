@@ -20,4 +20,4 @@
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?pedreviljoen)
+![](https://komarev.com/ghpvc/?username=pedreviljoen&style=flat-square)
