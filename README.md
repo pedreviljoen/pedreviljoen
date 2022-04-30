@@ -1,14 +1,12 @@
-<p align="center">
-  <a href="https://www.rickkln.com">
+<div align="center" border-radius="90">
     <img alt="pedreviljoen" src="https://avatars.githubusercontent.com/u/22566407?v=4" width="180" />
-  </a>
-</p>
+</div>
 
 <h1 align="center">
   About Me
 </h1>
 
-My name is Pedrè & I enjoy building things. Especially in tech, I enjoy working with distributed systems and containers. Apart from wandering the tech world I enjoy the outdoors, wine, food & adventures with my wife!
+👋 Hi there! I'm Pedrè & I enjoy building things. Especially in tech, I enjoy working with distributed systems and containers. Apart from wandering the tech world I enjoy the outdoors, wine, food & adventures with my wife!
 
 ## :book: Highlights
 
