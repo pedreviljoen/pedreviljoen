@@ -20,4 +20,4 @@
   </a>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/[pedreviljoen])
+![Profile views](https://komarev.com/ghpvc/?pedreviljoen)
