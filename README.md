@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a Snr Software Engineer at [Nile AG](https://nile.ag)
 - 🌱 Daily using the following technologies **Golang** **Docker** **MySQL** **PostgreSQL** **gRPC** **GraphQL**
 - ☁️ Using the following cloud providers **GCP** **AWS**
-- 💬 Ask me about  **Golang, Python, NodeJS** & **Architecture in the Cloud**
+- 💬 Ask me about  **Golang, Scala, NodeJS** & **Architecture in the Cloud**
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
