@@ -15,10 +15,4 @@
 - ☁️ Using the following cloud providers **GCP** **AWS**
 - 💬 Ask me about  **Golang, Scala, NodeJS** & **Architecture in the Cloud**
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedreviljoen&show_icons=true&theme=buefy&count_private=true" alt="pedreviljoen" height=180 width=50% />
-  </a>
-</div>
-
 ![](https://komarev.com/ghpvc/?username=pedreviljoen&style=flat-square)
