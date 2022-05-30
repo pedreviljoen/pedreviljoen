@@ -10,7 +10,7 @@
 
 ## :book: Highlights
 
-- 🔭 I’m currently working as a Snr Software Engineer at [Nile AG](https://nile.ag)
+- 🔭 I’m currently working as a Software Engineer at [Nile AG](https://nile.ag)
 - 🌱 Daily using the following technologies **Golang** **Docker** **MySQL** **PostgreSQL** **gRPC** **GraphQL**
 - ☁️ Using the following cloud providers **GCP** **AWS**
 - 💬 Ask me about  **Golang, Scala, NodeJS** & **Architecture in the Cloud**
