@@ -6,7 +6,9 @@
   About Me
 </h1>
 
-👋 Hi there! I'm Pedrè & I enjoy building things. Especially in tech, I enjoy working with distributed systems and containers. Apart from wandering the tech world I enjoy the outdoors, wine, food & adventures with my wife!
+👋 Hi there! My name is Pedrè & I enjoy building things. Especially in tech, I enjoy working with distributed systems and containers. Proudly South African 🇿🇦
+
+Apart from wandering the tech world I enjoy the outdoors, wine, food & adventures with my wife!
 
 ## :book: Highlights
 
