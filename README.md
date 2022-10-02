@@ -13,6 +13,6 @@
 - 🔭 I’m currently working as a Senior Software Engineer at [Nile AG](https://nile.ag)
 - 🌱 Daily using the following technologies **Golang** **Docker** **MySQL** **PostgreSQL** **gRPC** **GraphQL**
 - ☁️ Using the following cloud providers **GCP** **AWS**
-- 💬 Ask me about  **Golang, Scala, NodeJS** & **Architecture in the Cloud**
+- 💬 Ask me about  **Golang, SQL, GraphQL, NodeJS**, **Architecture in the Cloud** & **Distributed Systems**
 
 ![](https://komarev.com/ghpvc/?username=pedreviljoen&style=flat-square)
