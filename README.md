@@ -16,7 +16,3 @@ Apart from wandering the tech world I enjoy the outdoors, wine, food & adventure
 - 🌱 Daily using the following technologies **Golang** **Docker** **MySQL** **PostgreSQL** **gRPC** **GraphQL**
 - ☁️ Using the following cloud providers **GCP** **AWS**
 - 💬 Ask me about  **Golang, SQL, GraphQL, NodeJS**, **Architecture in the Cloud** & **Distributed Systems**
-
-To chat, collab or just say hi 👋. Find me below:
-
-[pedreviljoen](https://pedreviljoen.tech)
